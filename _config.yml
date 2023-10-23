@@ -11,7 +11,7 @@ title                    : "Jason's Personal Homepage"
 title_separator          : "-"
 name                     : &name "Zhenglin Du"
 description              : &description "personal description1111"
-url                      : https://jason-du111.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://Jason-Du111.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -82,8 +82,7 @@ analytics:
 author:
   name             : "Zhenglin Du(杜政霖)"
   avatar           : "profile.png"
-  bio              : "School of transportation"
-  bio              :     "Jilin University"
+  bio              : "School of transportation\nJilin University"
   location         : "Changchun,China"
   employer         :
   pubmed           :
