@@ -82,7 +82,8 @@ analytics:
 author:
   name             : "Zhenglin Du(杜政霖)"
   avatar           : "avatar: /folder/profile.png"
-  bio              : "School of transportation|   Jilin University"
+  bio              : ||"School of transportation"
+                           "Jilin University"
   location         : "Changchun,China"
   employer         :
   pubmed           :
