@@ -80,10 +80,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Zhenglin Du"
+  name             : "Zhenglin Du(杜政霖)"
   avatar           : "profile.png"
   bio              : "School of transportation"
-                        #"Jilin University"
+  bio              :     "Jilin University"
   location         : "Changchun,China"
   employer         :
   pubmed           :
