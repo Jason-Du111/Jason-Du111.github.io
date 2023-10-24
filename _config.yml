@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jason's Personal Homepage"
+title                    : "Zhenglin's Personal Homepage"
 title_separator          : "-"
 name                     : &name "Zhenglin Du"
-description              : &description "personal description1111"
+description              : &description "personal description"
 url                      : https://Jason-Du111.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Zhenglin Du(杜政霖)"
   avatar           : "profile.png"
-  bio              : "Jilin University"
+  bio              : "School of transportation  Jilin University"
   location         : "Changchun,China"
   employer         :
   pubmed           :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "@Jason Du"
+  twitter          : #"@Jason Du"
   vine             :
   weibo            :
   xing             :
