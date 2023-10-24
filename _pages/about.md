@@ -12,7 +12,8 @@ I'm a senior year undergraduate student from [School of Transportation](https://
 
 I am very fortunate to be advised by [Prof. Wei Tian](https://www.XXX.com/) from the Institute of Intelligent Vehicles of [School of Automotive](https://auto.tongji.edu.cn/), [Tongji University](https://tongji.edu.cn/).
 
-If you are interested in any aspect of me, I would love to chat and collaborate, feel free to email me at duzl2002@163.com
+If you are interested in any aspect of me, I would love to chat and collaborate, feel free to email me at [duzl2002@163.com](duzl2002@163.com).
+
 
 
 Research Interests
@@ -21,6 +22,7 @@ My current research focues on computer vision and machine learning.Especially in
 - **Multi-object tracking**
 - **BEV perception**
 - **3D reconstruction**
+
 
 
 News and Updates
