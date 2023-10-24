@@ -11,49 +11,45 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* M.S. in Vehicle Engineering,Tongji University, 2024(expected)
+* B.S. in Transportation, Jilin University, 2020-2024
 
-Work experience
+Research experience
 ======
-* Summer 2015: Research Assistant
+* Spring 2022: student research training program
   * Github University
   * Duties included: Tagging issues
   * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
+* Spring 2023: Kaggle Competition
   * Github University
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Comming soon...
   
-Talks
+Language and Skills
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+* English language proficiency：CET4:550 CET6:467
+* proficiency in programming with python pytorch c/c++ matlab
+* proficiency in Office SPSS Solidworks
   
-Teaching
+Honors and Awards
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* The First Class Scholarship, Jilin University
+* Outstanding Students, School of Transportation of Jilin University
+* First Prize in Jilin Provience, China Undergraduate Mathematical Contest in Modeling
+* Honorable Mention, The Mathematical Contest in Modeling
+* First Prize, Intelligent Robot Creative Competition of Jilin Province
+* Third Prize in Jilin Provience, China Robot and Artificial Intelligence Competition
+
+
+
+
+
+
+
+
+
