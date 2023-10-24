@@ -12,9 +12,8 @@ I'm a senior year undergraduate student from [School of Transportation](https://
 
 I am very fortunate to be advised by [Prof. Wei Tian](https://www.XXX.com/) from the Institute of Intelligent Vehicles of [School of Automotive](https://auto.tongji.edu.cn/), Tongji University.
 
-You can find my CV here: [XX's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
+If you are interested in any aspect of me, I would love to chat and collaborate, feel free to email me at duzl2002@163.com
 
-[Email](mailto:XX@stu.pku.edu.cn) / [Github](https://github.com/QiuDi233) / [Wechat](../images/wechat.jpg) / [CSDN](https://blog.csdn.net/qd1813100174?spm=1000.2115.3001.5343)
 
 Research Interests
 ======
@@ -23,10 +22,9 @@ My current research focues on computer vision and machine learning.Especially in
 - **BEV perception**
 - **3D reconstruction**
 
+
 News and Updates
 ======
 - **Oct 2023:** My new homepage established!
 
-For more info
-======
-Feel free to contact me via email duzl2002@163.com.Looking forward to hearing from you.
+
