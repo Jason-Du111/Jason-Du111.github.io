@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* M.S. in Vehicle Engineering,Tongji University, 2024(expected)
+* M.S. in Vehicle Engineering, Tongji University, 2024(expected)
 * B.S. in Computer Science and Technology, Jilin University, 2021-2023
 * B.S. in Transportation, Jilin University, 2020-2024
 
